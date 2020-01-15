@@ -84,7 +84,6 @@ module GameEngine(clk,reset,left_move_button,right_move_button,spin_button,direc
     reg [2:0] next_hold_piece_type;
     
     parameter CHECK_BOTTOM_STATE = 5'd6;
-//    reg at_the_bottom,next
     
     parameter CHECK_CLEAR_STATE = 5'd7;
     
