@@ -1,3 +1,6 @@
+## 遊戲主程式STG
+![](https://i.imgur.com/N65xuoI.png)
+
 依照 module 的功能與分工，將所有遊戲主程式 module 分成三大類：
 ## 1. Top module
 控制遊戲當前要執行的操作，並將遊戲呈現所需要的資訊（遊戲版面）輸出給螢幕顯示的 module。
