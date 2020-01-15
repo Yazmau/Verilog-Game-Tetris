@@ -9,17 +9,17 @@
 根據 Top module 狀態（欲執行的操作），調用 Function module 來更新遊戲資訊。主要針對無法直接調用 Function module 處理的更新。
 
 屬於本類型的 module：
-    * generate_piece_TRAN
-    * get_input_TRAN
-    * hold_TRAN
-    * clear_line_TRAN
+- generate_piece_TRAN
+- get_input_TRAN
+- hold_TRAN
+- clear_line_TRAN
 
-## 3. Function module：
+## 3. Function module
 實現遊戲執行所需的核心功能。
 
 屬於本類型的 module：
-    * board_controller
-    * falling_piece_update
-    * random_tetris
+- board_controller
+- falling_piece_update
+- random_tetris
 
 ![](https://i.imgur.com/ofszoV4.png)
