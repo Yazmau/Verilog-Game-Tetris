@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/JFE8Ndc.png)
 
-## Detail Explanation
+## Detailed Explanation
 
 See [Report.pdf](/Report.pdf) (in zh-tw)
 
