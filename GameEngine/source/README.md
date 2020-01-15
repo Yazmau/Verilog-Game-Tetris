@@ -1,4 +1,4 @@
-## 遊戲主程式STG
+## 遊戲主程式 STG
 ![](https://i.imgur.com/N65xuoI.png)
 
 依照 module 的功能與分工，將所有遊戲主程式 module 分成三大類：
