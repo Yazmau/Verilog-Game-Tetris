@@ -4,7 +4,7 @@
 
 ## Detail Explanation
 
-See [Report.pdf](/Report.pdf)
+See [Report.pdf](/Report.pdf) (in zh-tw)
 
 ## Contributors
 
